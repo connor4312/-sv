@@ -1,0 +1,16 @@
+{
+  "name": "clap-separated-values",
+  "version": "1.0.0",
+  "description": "Tabular data format for 👏 separated values",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Connor Peet <connor@peet.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "prettier": "^1.15.3"
+  }
+}
