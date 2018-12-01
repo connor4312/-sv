@@ -20,6 +20,14 @@ function addPet(species, name) {
 }
 ```
 
+Your file might now look something like this:
+
+```
+species👏name
+dog👏Max
+cat👏Tigger
+```
+
 All PRs accepted.
 
 ### FAQ
